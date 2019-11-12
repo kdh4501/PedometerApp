@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Walking KING</string>
+    <string name="step">step</string>
+    <string name="APP_CLOSE_BACK_BUTTON">Press the back button once more to close the app.</string>
+    <string name="RESET_BUTTON">Reset</string>
+    <string name="RESET_MESSAGE">Reset your step.</string>
+</resources>
